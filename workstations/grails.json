@@ -24,6 +24,7 @@
         "recipe[java]",
 		"recipe[mysql::server]",
         "recipe[main]",
-        "recipe[main::grails]"
+		"recipe[main::grails]",
+		"recipe[main::desktop]"
     ]
 }
